@@ -1,0 +1,608 @@
+[
+ {
+  "t": "hadis",
+  "k": "Müslim, Îmân 95",
+  "ar": "",
+  "tr": "Din nasihattir (samimiyettir). 'Kime karşı?' dedik. 'Allah'a, Kitabına, Peygamberine, Müslümanların yöneticilerine ve bütün Müslümanlara' buyurdu."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ النِّسَاءِ, 4/103",
+  "ar": "فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۚ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًۭا مَّوْقُوتًۭا",
+  "tr": "Namazı kıldıktan başka, Allah'ı ayakta iken, otururken, yan yatarken de anın. Emniyete kavuştuğunuzda, namazı gereğince kılın. Namaz şüphesiz, inananlara belirli vakitlerde farz kılınmıştır."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الرَّعۡدِ, 13/28",
+  "ar": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+  "tr": "Onlar inanmışlar, kalbleri Allah'ı anmakla huzura kavuşmuştur. Dikkat edin, kalbler ancak Allah'ı anmakla huzura kavuşur."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ البَقَرَةِ, 2/153",
+  "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+  "tr": "Ey İnananlar! Sabır ve namazla yardım dileyin. Allah, muhakkak ki sabredenlerle beraberdir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ التَّحۡرِيمِ, 66/8",
+  "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةًۭ نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+  "tr": "Ey inananlar! Yürekten tevbe ederek Allah'a dönün ki, Rabbiniz kötülüklerinizi örtsün, sizi, içlerinden ırmaklar akan cennetlere koysun. Allah'ın Peygamberini ve onunla beraber olan müminleri utandırmayacağı o gün, ışıkları önlerinde ve defterleri sağlarından verilmiş olarak yürürler ve: \"Rabbimiz! Işığımızı tamamla, bizi bağışla, doğrusu Sen herşeye Kadir'sin\" derler."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Îmân 93; Tirmizî, Sıfâtu'l-Kıyâme 56",
+  "ar": "",
+  "tr": "İman etmedikçe cennete giremezsiniz; birbirinizi sevmedikçe de iman etmiş olamazsınız."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الأَنبِيَاءِ, 21/107",
+  "ar": "وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ",
+  "tr": "Biz seni ancak alemlere rahmet olarak gönderdik."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الفُرۡقَانِ, 25/74",
+  "ar": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍۢ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+  "tr": "Onlar: \"Rabbimiz! Bize eşlerimizden ve çocuklarımızdan gözümüzün aydınlığı olacak insanlar ihsan et ve bizi, Allah'a karşı gelmekten sakınanlara önder yap\" derler."
+ },
+ {
+  "t": "hadis",
+  "k": "Tirmizî, Birr 3",
+  "ar": "",
+  "tr": "Allah'ın rızası anne ve babanın rızasındadır; Allah'ın öfkesi de anne babanın öfkesindedir."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Edeb 27; Müslim, Müsâkât 7-10",
+  "ar": "",
+  "tr": "Bir Müslümanın diktiği ağaçtan veya ektiği ekinden insan, hayvan ve kuşların yedikleri, onun için sadakadır."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Zühd 64",
+  "ar": "",
+  "tr": "Müminin hâli ne güzeldir! Her işi hayırdır: Nimete kavuşsa şükreder, hayır olur; darlığa düşse sabreder, yine hayır olur."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ آلِ عِمۡرَانَ, 3/190",
+  "ar": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍۢ لِّأُو۟لِى ٱلْأَلْبَٰبِ",
+  "tr": "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelmesinde akıl sahiblerine şüphesiz deliller vardır."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ البَقَرَةِ, 2/286",
+  "ar": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+  "tr": "Allah kişiye ancak gücünün yeteceği kadar yükler; kazandığı iyilik lehine, ettiği kötülük de aleyhinedir. Rabbimiz! Eğer unutacak veya yanılacak olursak bizi sorumlu tutma. Rabbimiz bizden öncekilere yüklediğin gibi, bize de ağır yük yükleme. Rabbimiz! Bize gücümüzün yetmeyeceği şeyi taşıtma, bizi affet, bizi bağışla, bize acı. Sen Mevlamızsın, kafirlere karşı bize yardım et."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Îmân 32; Müslim, Müsâfirîn 218",
+  "ar": "",
+  "tr": "Amellerin en hayırlısı, az da olsa devamlı olanıdır."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Edeb 28; Müslim, Birr 140-141",
+  "ar": "",
+  "tr": "Cebrâil bana komşu hakkında o kadar çok tavsiyede bulundu ki, komşuyu komşuya mirasçı kılacak zannettim."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ هُودٍ, 11/88",
+  "ar": "قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍۢ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًۭا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+  "tr": "\"Ey Milletim! Rabbimden benim bir belgem olduğu ve bana güzel bir rızık da verdiği halde, O'na karşı gelebilir miyim? Söylesenize! Size yasak ettiğim şeylerde, aykırı hareket etmek istemem; gücümün yettiği kadar ıslah etmekten başka bir dileğim yoktur. Başarım ancak Allah'tandır, O'na güvendim; O'na yöneliyorum\" dedi."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ يُونُسَ, 10/57",
+  "ar": "يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌۭ مِّن رَّبِّكُمْ وَشِفَآءٌۭ لِّمَا فِى ٱلصُّدُورِ وَهُدًۭى وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ",
+  "tr": "Ey insanlar! Rabbinizden size bir öğüt ve kalblerde olana şifa, inananlara doğruyu gösteren bir rehber ve rahmet gelmiştir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ مَرۡيَمَ, 19/96",
+  "ar": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَيَجْعَلُ لَهُمُ ٱلرَّحْمَٰنُ وُدًّۭا",
+  "tr": "İnanıp yararlı iş işleyenleri Rahman sevgili kılacaktır."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ العَصۡرِ, 103/3",
+  "ar": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+  "tr": "Ancak inanıp yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve sabırlı olmayı tavsiye edenler bunun dışındadır."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الرَّعۡدِ, 13/11",
+  "ar": "لَهُۥ مُعَقِّبَٰتٌۭ مِّنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ يَحْفَظُونَهُۥ مِنْ أَمْرِ ٱللَّهِ ۗ إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا۟ مَا بِأَنفُسِهِمْ ۗ وَإِذَآ أَرَادَ ٱللَّهُ بِقَوْمٍۢ سُوٓءًۭا فَلَا مَرَدَّ لَهُۥ ۚ وَمَا لَهُم مِّن دُونِهِۦ مِن وَالٍ",
+  "tr": "Ardında ve önünde insanoğlunu takip edenler vardır; Allah'ın emriyle onu gözetirler. Bir millet kendini bozmadıkça Allah onların durumunu değiştirmez. Allah bir milletin fenalığını dileyince artık onun önüne geçilmez. Onlar için Allah'tan başka hamide bulunmaz."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ النَّحۡلِ, 16/97",
+  "ar": "مَنْ عَمِلَ صَٰلِحًۭا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَلَنُحْيِيَنَّهُۥ حَيَوٰةًۭ طَيِّبَةًۭ ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+  "tr": "Kadın, erkek, inanmış olarak kim iyi iş işlerse, ona hoş bir hayat yaşatacağız. Ecirlerini yaptıklarından daha güzeli ile ödeyeceğiz."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ العَنكَبُوتِ, 29/69",
+  "ar": "وَٱلَّذِينَ جَٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
+  "tr": "Ama Bizim uğrumuzda cihat edenleri elbette yollarımıza eriştireceğiz. Allah şüphesiz, iyi davrananlarla beraberdir."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Îmân 61",
+  "ar": "",
+  "tr": "Allah'a inandım de, sonra dosdoğru ol."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الشَّرۡحِ, 94/6",
+  "ar": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+  "tr": "Gerçekten, güçlükle beraber bir kolaylık vardır."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ التَّوۡبَةِ, 9/40",
+  "ar": "إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍۢ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+  "tr": "Ona (Muhammed'e) yardım etmezseniz, bilin ki, inkar edenler onu Mekke'den çıkardıklarında mağarada bulunan iki kişiden biri olarak Allah ona yardım etmişti. Arkadaşına (Ebu Bekir'e) \"Üzülme, Allah bizimledir\" diyordu; Allah da ona güven vermiş, görmediğiniz askerlerle onu desteklemiş, inkar edenlerin sözünü alçaltmıştı. Ancak Allah'ın sözü yücedir. Allah güçlüdür, hakimdir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الطَّلَاقِ, 65/3",
+  "ar": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا",
+  "tr": "Kadınların iddet süreleri biteceğinde, onları ya uygun bir şekilde alıkoyun, ya da onlardan ayrılın; içinizden de iki adil şahit getirin; şahidliği Allah için yapın; işte bu, Allah'a ve ahiret gününe inanan kimseye verilen öğüttür. Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. Allah, buyruğunu yerine getirendir. Allah her şey için bir ölçü var etmiştir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ آلِ عِمۡرَانَ, 3/200",
+  "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+  "tr": "Ey İnananlar! Sabredin, düşmanlarınızdan daha sabırlı olun, cihada hazır bulunun, Allah'a karşı gelmekten sakının ki başarıya erişebilesiniz."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Edeb 31; Müslim, Îmân 74-75",
+  "ar": "",
+  "tr": "Allah'a ve ahiret gününe iman eden, ya hayır söylesin ya da sussun."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الإِسۡرَاءِ, 17/80",
+  "ar": "وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَٰنًۭا نَّصِيرًۭا",
+  "tr": "De ki: \"Rabbim! Beni dahil edeceğin yere hoşnutluk ve esenlikle dahil et; çıkaracağın yerden de hoşnutluk ve esenlikle çıkar. Katından beni destekleyecek bir kuvvet ver.\""
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ البَقَرَةِ, 2/152",
+  "ar": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+  "tr": "Artık Beni anın, Ben de sizi anayım; Bana şükredin, nankörlük etmeyin."
+ },
+ {
+  "t": "hadis",
+  "k": "Tirmizî, Birr 33",
+  "ar": "",
+  "tr": "Hiçbir baba, çocuğuna güzel terbiyeden daha üstün bir hediye veremez."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الضُّحَىٰ, 93/3",
+  "ar": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+  "tr": "Rabbin seni ne bıraktı ve ne de sana darıldı."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Fedâil 66; Tirmizî, Birr 16",
+  "ar": "",
+  "tr": "İnsanlara merhamet etmeyene Allah merhamet etmez."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Birr 58",
+  "ar": "",
+  "tr": "Kim bir müminin dünya sıkıntılarından birini giderirse, Allah da onun kıyamet sıkıntılarından birini giderir."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Îmân 7; Müslim, Îmân 71",
+  "ar": "",
+  "tr": "Hiçbiriniz kendisi için istediğini kardeşi için de istemedikçe (gerçek anlamda) iman etmiş olmaz."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Edeb 57-58",
+  "ar": "",
+  "tr": "Birbirinize haset etmeyin, kin gütmeyin, sırt çevirmeyin; ey Allah'ın kulları, kardeş olun."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ آلِ عِمۡرَانَ, 3/26",
+  "ar": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+  "tr": "De ki: \"Mülkün sahibi olan Allah'ım! Mülkü dilediğine verirsin; dilediğinden çekip alırsın; dilediğini aziz kılar, dilediğini alçaltırsın; iyilik elindedir. Doğrusu Sen, her şeye Kadir'sin."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ التَّوۡبَةِ, 9/51",
+  "ar": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+  "tr": "De ki: \"Allah'ın bize yazdığından başkası başımıza gelmez. O bizim Mevlamızdır, inananlar Allah'a güvensin.\""
+ },
+ {
+  "t": "hadis",
+  "k": "Tirmizî, Birr 33",
+  "ar": "",
+  "tr": "Hiçbir baba evlâdına güzel edepten daha hayırlı bir miras bırakmamıştır."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, İlim 12; Müslim, Cihâd 6",
+  "ar": "",
+  "tr": "Kolaylaştırınız, güçleştirmeyiniz; müjdeleyiniz, nefret ettirmeyiniz."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الحَدِيدِ, 57/4",
+  "ar": "هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+  "tr": "Gökleri ve yeri altı günde yaratan, sonra arşa hükmeden, yere gireni ve ondan çıkanı, gökten ineni ve oraya yükseleni bilen O'dur. Nerede olursanız olun, O, sizinle beraberdir. Allah yaptıklarınızı görür."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الأَحۡزَابِ, 33/70",
+  "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَقُولُوا۟ قَوْلًۭا سَدِيدًۭا",
+  "tr": "Ey inananlar! Allah'tan sakının, dürüst söz söyleyin de Allah işlerinizi kendinize yararlı kılsın ve günahlarınızı size bağışlasın. Kim Allah'a ve Peygamber'ine itaat ederse, şüphesiz büyük bir kurtuluşa ermiş olur."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الكَهۡفِ, 18/28",
+  "ar": "وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًۭا",
+  "tr": "Sabah akşam Rablerinin rızasını dileyerek O'na yalvaranlarla beraber sen de sabret. Dünya hayatının güzelliklerini isteyerek gözlerini o kimselerden ayırma. Bizi anmasını kendisine unutturduğumuz ve işinde aşırı giderek hevesine uyan kimseye uyma."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Birr 33; İbn Mâce, Zühd 9",
+  "ar": "",
+  "tr": "Allah sizin ne dış görünüşünüze ne de mallarınıza bakar; kalplerinize ve amellerinize bakar."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ النَّحۡلِ, 16/128",
+  "ar": "إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَوا۟ وَّٱلَّذِينَ هُم مُّحْسِنُونَ",
+  "tr": "Allah şüphesiz sakınanlarla ve iyilik yapanlarla beraberdir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الطَّلَاقِ, 65/2",
+  "ar": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍۢ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍۢ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَٰدَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًۭا",
+  "tr": "Kadınların iddet süreleri biteceğinde, onları ya uygun bir şekilde alıkoyun, ya da onlardan ayrılın; içinizden de iki adil şahit getirin; şahidliği Allah için yapın; işte bu, Allah'a ve ahiret gününe inanan kimseye verilen öğüttür. Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. Allah, buyruğunu yerine getirendir. Allah her şey için bir ölçü var etmiştir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الإِخۡلَاصِ, 112/1",
+  "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+  "tr": "De ki: O Allah bir tektir."
+ },
+ {
+  "t": "hadis",
+  "k": "Taberânî, el-Mu'cemü'l-Evsat 1/275; Beyhakî",
+  "ar": "",
+  "tr": "Sizden birinizin yaptığı işi sağlam ve iyi yapmasından Allah hoşnut olur."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ آلِ عِمۡرَانَ, 3/185",
+  "ar": "كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ",
+  "tr": "Her insan ölümü tadacaktır. Kıyamet günü, ecirleriniz size mutlaka ödenecektir. Ateşten uzaklaştırılıp cennete sokulan kimse artık kurtulmuştur. Dünya hayatı, zaten, sadece aldatıcı bir geçinmeden ibarettir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ البَقَرَةِ, 2/155",
+  "ar": "وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍۢ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّٰبِرِينَ",
+  "tr": "Muhakkak sizi biraz korku, biraz açlık ve mallardan, canlardan, ürünlerden biraz eksiltmekle deneriz, sabredenleri müjdele."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Îmân 3; Müslim, Îmân 57-58",
+  "ar": "",
+  "tr": "İman yetmiş küsur şubedir. En üstünü 'Allah'tan başka ilah yoktur' sözü, en aşağısı yoldan eziyet veren şeyi kaldırmaktır. Hayâ da imandandır."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Birr 31",
+  "ar": "",
+  "tr": "İnsanların Allah'a en sevimli olanı, insanlara en faydalı olanıdır."
+ },
+ {
+  "t": "hadis",
+  "k": "Tirmizî, Radâ 11; İbn Mâce, Nikâh 50",
+  "ar": "",
+  "tr": "Sizin en hayırlınız, hanımlarına karşı en iyi davrananınızdır."
+ },
+ {
+  "t": "hadis",
+  "k": "İbn Mâce, Ruhûn 4",
+  "ar": "",
+  "tr": "İşçiye ücretini, alnının teri kurumadan veriniz."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ طه, 20/114",
+  "ar": "فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًۭا",
+  "tr": "Gerçek hükümdar olan Allah Yüce'dir. Kuran sana vahyedilirken, vahy bitmezden önce, unutmamak için, tekrarda acele edip durma, \"Rabbim! ilmimi artır\" de."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Îmân 164",
+  "ar": "",
+  "tr": "Bizi aldatan bizden değildir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الشُّورَىٰ, 42/25",
+  "ar": "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+  "tr": "Kullarının tevbesini kabul eden, kötülükleri affeden, yaptıklarınızı bilen, inanıp yararlı işler işleyenlerin duasını kabul eden, lütfuyla onların ecrini arttıran O'dur. Ama, inkarcılar için çetin azap vardır."
+ },
+ {
+  "t": "hadis",
+  "k": "Tirmizî, Kıyâme 49; İbn Mâce, Zühd 30",
+  "ar": "",
+  "tr": "Her insan hata eder; hata edenlerin en hayırlısı tevbe edenlerdir."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Nafakât 1; Müslim, Zühd 41",
+  "ar": "",
+  "tr": "Dul ve fakirlere yardım eden kimse, Allah yolunda cihad eden gibi, gündüz oruç tutup gece ibadet eden gibi mükâfatlandırılır."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ آلِ عِمۡرَانَ, 3/159",
+  "ar": "فَبِمَا رَحْمَةٍۢ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ",
+  "tr": "Allah'ın rahmetinden dolayı, sen onlara karşı yumuşak davrandın. Eğer kaba ve katı kalbli olsaydın, şüphesiz etrafından dağılır giderlerdi. Onları affet, onlara mağfiret dile, iş hakkında onlara danış, fakat karar verdin mi Allah'a güven, doğrusu Allah güvenenleri sever."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الحَشۡرِ, 59/22",
+  "ar": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ۖ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ۖ هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ",
+  "tr": "O, görüleni de görülmeyeni de bilen, kendisinden başka tanrı olmayan Allah'tır. O, acıyıcı olandır, acıyandır."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الأَحۡزَابِ, 33/41",
+  "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًۭا كَثِيرًۭا",
+  "tr": "Ey inananlar! Allah'ı çok anın."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ آلِ عِمۡرَانَ, 3/173",
+  "ar": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَٰنًۭا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+  "tr": "İnsanlar onlara: \"Düşmanınız olan insanlar size karşı bir ordu topladılar, onlardan korkun\" dediler. Bu, onların imanını artırdı da: \"Allah bize yeter. O ne güzel Vekil'dir\" dediler."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ النَّحۡلِ, 16/90",
+  "ar": "۞ إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+  "tr": "Allah şüphesiz adaleti, iyilik yapmayı, yakınlara bakmayı emreder; hayasızlığı, fenalığı ve haddi aşmayı yasak eder. Tutasınız diye size öğüt verir."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Edeb 83; Müslim, Zühd 63",
+  "ar": "",
+  "tr": "Mümin, bir delikten iki defa ısırılmaz."
+ },
+ {
+  "t": "hadis",
+  "k": "Tirmizî, Birr 15; Ebû Dâvûd, Edeb 66",
+  "ar": "",
+  "tr": "Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Zühd 1",
+  "ar": "",
+  "tr": "Dünya müminin zindanı, kâfirin ise cennetidir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الأَنبِيَاءِ, 21/87",
+  "ar": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًۭا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+  "tr": "Zünnun (Balık Sahibi; Yunus) hakkında söylediğimizi de an. O, öfkelenerek giderken, kendisini sıkıntıya sokmayacağımızı sanmıştı; fakat sonunda karanlıklar içinde: \"Senden başka tanrı yoktur, Sen münezzehsin, doğrusu ben haksızlık edenlerdenim\" diye seslenmişti."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ البَقَرَةِ, 2/255",
+  "ar": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+  "tr": "Allah, O'ndan başka tanrı olmayan, kendisini uyuklama ve uyku tutmayan, diri, her an yaratıklarını gözetip durandır. Göklerde olan ve yerde olan ancak O'nundur. O'nun izni olmadan katında şefaat edecek kimdir? Onların işlediklerini ve işleyeceklerini bilir, dilediğinden başka ilminden hiçbir şeyi kavrayamazlar. Hükümranlığı gökleri ve yeri kaplamıştır, onların gözetilmesi O'na ağır gelmez. O yücedir, büyüktür."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الشَّرۡحِ, 94/5",
+  "ar": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+  "tr": "Elbette güçlükle beraber şüphesiz bir kolaylık vardır."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Edeb 47; Müslim, Edeb 47",
+  "ar": "",
+  "tr": "Üç kişi bir arada iken, ikisi ötekiyle gizli konuşmasın."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الأَعۡرَافِ, 7/180",
+  "ar": "وَلِلَّهِ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ فَٱدْعُوهُ بِهَا ۖ وَذَرُوا۟ ٱلَّذِينَ يُلْحِدُونَ فِىٓ أَسْمَٰٓئِهِۦ ۚ سَيُجْزَوْنَ مَا كَانُوا۟ يَعْمَلُونَ",
+  "tr": "En güzel isimler Allah'ındır, O'na o isimlerle dua edin, O'nun isimleri konusunda eğriliğe sapanları bırakın. Onlar yaptıklarının cezasını göreceklerdir."
+ },
+ {
+  "t": "hadis",
+  "k": "Tirmizî, İlim 14",
+  "ar": "",
+  "tr": "Hayra vesile olan, hayrı yapan gibidir."
+ },
+ {
+  "t": "hadis",
+  "k": "Tirmizî, Birr 36",
+  "ar": "",
+  "tr": "Kardeşine tebessüm etmen sadakadır. İyiliği emredip kötülükten sakındırman sadakadır. Yoldan taş, diken, kemik kaldırman da sadakadır."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Îmân 78; Ebû Dâvûd, Salât 248",
+  "ar": "",
+  "tr": "Sizden kim bir kötülük görürse onu eliyle düzeltsin; gücü yetmezse diliyle, ona da gücü yetmezse kalbiyle. Bu ise imanın en zayıf derecesidir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ البَقَرَةِ, 2/269",
+  "ar": "يُؤْتِى ٱلْحِكْمَةَ مَن يَشَآءُ ۚ وَمَن يُؤْتَ ٱلْحِكْمَةَ فَقَدْ أُوتِىَ خَيْرًۭا كَثِيرًۭا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+  "tr": "Hikmeti dilediğine verir. Kime hikmet verilmişse şüphesiz ona çokça hayır verilmiştir. Bundan ancak akıl sahipleri ibret alır."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Îmân 168; Tirmizî, Birr 79",
+  "ar": "",
+  "tr": "Söz taşıyanlar cennete giremezler."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الضُّحَىٰ, 93/5",
+  "ar": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+  "tr": "Rabbin şüphesiz sana verecek ve sen de hoşnut olacaksın."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Îmân 39; Müslim, Müsâkât 107",
+  "ar": "",
+  "tr": "İnsanda bir organ vardır; o sağlıklı olursa bütün vücut sağlıklı olur, o bozulursa bütün vücut bozulur. Dikkat edin, o kalptir."
+ },
+ {
+  "t": "hadis",
+  "k": "Tirmizî, Birr 55",
+  "ar": "",
+  "tr": "Nerede olursan ol Allah'a karşı gelmekten sakın; kötülüğün peşinden bir iyilik yap ki onu silsin. İnsanlara güzel ahlâkla davran."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Mezâlim 3; Müslim, Birr 58",
+  "ar": "",
+  "tr": "Müslüman, Müslümanın kardeşidir; ona zulmetmez, onu yardımsız bırakmaz. Kim kardeşinin bir ihtiyacını giderirse Allah da onun bir ihtiyacını giderir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ البَقَرَةِ, 2/156",
+  "ar": "ٱلَّذِينَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۭ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ",
+  "tr": "Onlara bir musibet geldiğinde: \"Biz Allah'ınız ve elbette O'na döneceğiz\" derler."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ إِبۡرَاهِيمَ, 14/7",
+  "ar": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌۭ",
+  "tr": "Rabbiniz: \"Şükrederseniz and olsun ki, size karşılığını artıracağım; nankörlük ederseniz bilin ki azabım pek çetindir\" diye bildirmişti."
+ },
+ {
+  "t": "hadis",
+  "k": "Buhârî, Edeb 69; Müslim, Birr 103-104",
+  "ar": "",
+  "tr": "Doğruluk iyiliğe götürür, iyilik de cennete götürür. Kişi doğru söyleye söyleye Allah katında sıddîk diye yazılır."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الطَّلَاقِ, 65/7",
+  "ar": "لِيُنفِقْ ذُو سَعَةٍۢ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍۢ يُسْرًۭا",
+  "tr": "Varlıklı olan kimse, nafakayı varlığına göre versin; rızkı ancak kendisine yetecek kadar verilmiş olan kimse, Allah'ın kendisine verdiğinden versin; Allah kimseye, verdiği rızkı aşan bir yük yüklemez. Allah, güçlükten sonra kolaylık verir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ آلِ عِمۡرَانَ, 3/8",
+  "ar": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+  "tr": "Rabbimiz! Bizi doğru yola erdirdikten sonra kalblerimizi eğriltme, katından bize rahmet bağışla; şüphesiz Sen sonsuz bağışta bulunansın."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ النُّورِ, 24/35",
+  "ar": "۞ ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍۢ فِيهَا مِصْبَاحٌ ۖ ٱلْمِصْبَاحُ فِى زُجَاجَةٍ ۖ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌۭ دُرِّىٌّۭ يُوقَدُ مِن شَجَرَةٍۢ مُّبَٰرَكَةٍۢ زَيْتُونَةٍۢ لَّا شَرْقِيَّةٍۢ وَلَا غَرْبِيَّةٍۢ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌۭ ۚ نُّورٌ عَلَىٰ نُورٍۢ ۗ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ ۚ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+  "tr": "Allah göklerin ve yerin Nur'udur. O'nun nuru, içinde ışık bulunan bir kandil yuvasına benzer. O ışık bir cam içindedir, cam ise, sanki inci gibi parlayan bir yıldızdır; bu ne yalnız doğuda ve ne de yalnız batıda bulunan bereketli zeytin ağacından yakılır. Ateş değmese bile, nerdeyse yağın kendisi aydınlatacak! Nur üstüne nurdur. Allah dilediğini nuruna kavuşturur. Allah insanlara misaller verir. O, herşeyi bilir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الرَّحۡمَٰن, 55/60",
+  "ar": "هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ",
+  "tr": "İyiliğin karşılığı ancak iyilik değil midir?"
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Mukaddime 5",
+  "ar": "",
+  "tr": "Her duyduğunu söylemesi kişiye yalan olarak yeter."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الزُّمَرِ, 39/53",
+  "ar": "۞ قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+  "tr": "De ki: \"Ey kendilerine kötülük edip aşırı giden kullarım! Allah'ın rahmetinden umudunuzu kesmeyin. Doğrusu Allah günahların hepsini bağışlar. Çünkü O, bağışlayandır, merhametlidir.\""
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ غَافِرٍ, 40/60",
+  "ar": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+  "tr": "Rabbiniz: \"Bana dua edin ki duanıza icabet edeyim. Bana kulluk etmeyi büyüklüklerine yediremeyenler alçalmış olarak cehenneme gireceklerdir\" buyurmuştur."
+ },
+ {
+  "t": "hadis",
+  "k": "Müslim, Îmân 107",
+  "ar": "",
+  "tr": "Münafığın alâmeti üçtür: Konuştuğunda yalan söyler, söz verdiğinde sözünde durmaz, kendisine emanet edildiğinde ihanet eder."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الحُجُرَاتِ, 49/13",
+  "ar": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ",
+  "tr": "Ey insanlar! Doğrusu Biz sizleri bir erkekle bir dişiden yarattık. Sizi milletler ve kabileler haline koyduk ki birbirinizi kolayca tanıyasınız. Şüphesiz, Allah katında en değerliniz, O'na karşı gelmekten en çok sakınanızdır. Allah bilendir, haberdardır."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ التَّغَابُنِ, 64/11",
+  "ar": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+  "tr": "Başa gelen hiçbir musibet Allah'ın izni olmaksızın olamaz; Allah'a kim inanırsa onun gönlünü doğruya yöneltir. Allah herşeyi bilendir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ يُونُسَ, 10/62",
+  "ar": "أَلَآ إِنَّ أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+  "tr": "İyi bilin ki, Allah'ın dostlarına korku yoktur, onlar üzülmeyeceklerdir."
+ },
+ {
+  "t": "hadis",
+  "k": "İbn Mâce, Ahkâm 17; Muvatta, Akdiye 31",
+  "ar": "",
+  "tr": "Zarar vermek ve zarara zararla karşılık vermek yoktur."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ البَقَرَةِ, 2/216",
+  "ar": "كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًۭٔا وَهُوَ خَيْرٌۭ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًۭٔا وَهُوَ شَرٌّۭ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+  "tr": "Savaş, hoşunuza gitmediği halde size farz kılındı. İhtimal ki hoşlanmadığınız şey sizin iyiliğinizedir ve ihtimal ki sevdiğiniz bir şey sizin kötülüğünüzedir. Siz bilmezsiniz, Allah bilir."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ آلِ عِمۡرَانَ, 3/139",
+  "ar": "وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+  "tr": "Gevşemeyin, üzülmeyin, inanmışsanız, mutlaka siz en üstünsünüzdür."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الرَّعۡدِ, 13/29",
+  "ar": "ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَـَٔابٍۢ",
+  "tr": "İnanan ve yararlı iş işleyen kimseler için hoş bir hayat ve dönülecek güzel bir yer vardır."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ البَقَرَةِ, 2/186",
+  "ar": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+  "tr": "Kullarım sana Beni sorarlarsa, bilsinler ki Ben, şüphesiz onlara yakınım. Benden isteyenin, dua ettiğinde duasını kabul ederim. Artık onlar da davetimi kabul edip Bana inansınlar ki doğru yolda yürüyenlerden olsunlar."
+ },
+ {
+  "t": "ayet",
+  "k": "سُورَةُ الكَهۡفِ, 18/10",
+  "ar": "إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةًۭ وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًۭا",
+  "tr": "Birkaç genç mağaraya sığınmış: \"Rabbimiz! Katından bize rahmet ver ve işimizde doğruyu göster, bizi başarılı kıl\" demişlerdi."
+ }
+]

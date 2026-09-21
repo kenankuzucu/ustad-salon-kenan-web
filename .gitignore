@@ -1,0 +1,12 @@
+# Geçici / editör dosyaları
+~$*
+*.tmp
+*.bak
+_thumbs.db
+Thumbs.db
+desktop.ini
+
+# Sırlar
+.env
+*.key
+*.pem
