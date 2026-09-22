@@ -15,3 +15,11 @@ desktop.ini
 .gh-*
 gh-*
 *credential*
+
+# Ölçüm / geçici çıktılar (yayına girmez)
+_*.js
+_*.txt
+_*.png
+olcum-ekran.py
+olcum.py
+tani-*.js
