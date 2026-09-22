@@ -41,6 +41,23 @@ Ziyaretçi 16 bölüm görür; **👑 ÜSTAD YÖNETİM** her zaman yalnız site 
 
 ---
 
+## 📸 Ekran görüntüleri
+
+<table>
+<tr>
+<td width="50%"><b>Açılış ekranı</b><br><img src="ekranlar/01-anasayfa.png" alt="Açılış ekranı"></td>
+<td width="50%"><b>ÜSTAD CANLI RADYO · 33 kanal</b><br><img src="ekranlar/02-canli-radyo.png" alt="Canlı radyo"></td>
+</tr>
+<tr>
+<td><b>KUR'AN-I KERİM · 114 sûre / 6.236 âyet</b><br><img src="ekranlar/03-kuran-i-kerim.png" alt="Kur'an-ı Kerim"></td>
+<td><b>OYUNLAR · dama, satranç, tavla</b><br><img src="ekranlar/04-oyunlar.png" alt="Oyunlar"></td>
+</tr>
+</table>
+
+<b>TANITIM ve BİYOGRAFİ</b><br><img src="ekranlar/05-tanitim-biyografi.png" alt="Tanıtım ve biyografi">
+
+---
+
 ## 🚀 Nasıl açılır
 
 ```bash

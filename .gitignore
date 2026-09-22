@@ -10,3 +10,8 @@ desktop.ini
 .env
 *.key
 *.pem
+
+# geçici kimlik dosyaları
+.gh-*
+gh-*
+*credential*
